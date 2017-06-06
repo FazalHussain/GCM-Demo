@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GCM Notification Demo</string>
+
+    <string name="submit_btn">Submit</string>
+
+    <string name="send_btn">Send</string>
+</resources>

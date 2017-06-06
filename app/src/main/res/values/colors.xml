@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Sign IN Screen-->
+    <color name="text_color">#8988a1</color>
+    <color name="sign_in_btn_color">#ff2d55</color>
+
+    <color name="msg_bg">#efeff2</color>
+</resources>
